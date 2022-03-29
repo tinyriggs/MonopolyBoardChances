@@ -16,7 +16,9 @@ for i in range(1,31):
         answer = answer - 40
     spaces_histogram[answer] += 1
 
-#TODO Need to add logic for things like do to jail space and chance cards. Also want to have it run for multiple players.
+#TODO Need to add logic for things like do to jail space and chance cards. Also want to have it run for multiple players. 
+
+
 
 def plot_graph():
     x = []
